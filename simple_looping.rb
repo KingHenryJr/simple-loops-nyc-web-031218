@@ -9,13 +9,7 @@ counter = 0
 while counter < number_of_times
   puts phrase
   counter += 1
-
-
-
-break
-
-
-
+end
 end
 
 def times_iterator(number_of_times)
