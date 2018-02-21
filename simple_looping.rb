@@ -8,7 +8,7 @@ counter = 0
 
 while counter < number_of_times
   puts phrase
-
+  counter += 1
 
 
 
